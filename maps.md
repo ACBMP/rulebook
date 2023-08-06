@@ -11,7 +11,7 @@ The following maps are allowed to be played:
 | Assassinate | Yes   |       Yes       |   Yes  |      Yes     |  Yes |  Yes  |    Yes   |       Yes      |   No   |    No    |       No      |
 | Escort      | Yes   |       Yes       |   BO5  |      Yes     |  BO5 |  BO5  |    BO5   |       No       |   No   |    No    |       No      |
 
-* \*Only day time is allowed. San Donato Night's brightness clips quickly on TV range displays.
+* \*Only day time is allowed.
 * BO5 Means the maps are only allowed in best-of-five matches. However, in manhunt, these cannot be played in the final game.
 
 ## Map Rotation
@@ -29,9 +29,9 @@ The default map rotation for escort BO5s is:
 For Assassins' Network seasonal games:
 
 1. Castel Gandolfo
-2. Siena (after 2 failed attempts, skip to Venice)
-3. Venice
-4. Forli
+2. Siena (after 2 failed attempts, skip to Forli)
+3. Forli
+4. Venice
 5. Rome
 6. San Donato
 
@@ -52,7 +52,7 @@ For Assassins' Network season games:
 1. Castel Gandolfo
 2. Siena
 
-Other maps can be played if all players agree, but should only be played sparingly.&#x20;
+Other maps can be played if all players agree, but should only be played sparingly.
 
 #### Domination
 
@@ -70,7 +70,7 @@ For Assassins' Network season games also allowed:
 2. Tampa Bay
 3. St Matheu
 
-St Pierre and Charlestown can be played if all players agree. &#x20;
+St Pierre and Charlestown can be played if all players agree.
 
 ## Team Selection
 
@@ -94,4 +94,4 @@ If either team spawns on the green side of the map, the game must be remade.
 
 #### General
 
-If the initial VIP spawn is such that the defending team cannot possibly reach the VIPs before the attacking team, the defenders must leave the match and the game replayed. Failure to leave implies the team is okay with this disadvantage and must accept the game's outcome.
+If the initial VIP spawn is such that the defending team cannot possibly reach the VIPs before the attacking team, the defenders must leave the match and the game is replayed. Failure to leave implies the team is okay with this disadvantage and must accept the game's outcome.

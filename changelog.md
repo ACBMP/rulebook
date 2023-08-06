@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.0.15 2023-08-06
+
+* Swap Venice and Forli in escort map rotation.
+
 ### 1.0.14 2022-12-08
 
 * Add Domination
